@@ -1,0 +1,167 @@
+{
+  "repository": "byDenoso/Pantheon",
+  "primary_commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+  "hardening_commit": "3aaec79fd6e6b43931a29d03afa4676c2163af6d",
+  "files": [
+    {
+      "path": "science/aas77733/__init__.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "f3ab5f6d67a7a8727e9ed943b84e92cccf9280f4"
+    },
+    {
+      "path": "science/aas77733/canonical_gates.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "91fce9496e5d3f28a534265a144a0101b5cf6ebc"
+    },
+    {
+      "path": "science/aas77733/config.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "ef995d1f617d8878df1bf8168a61b0e26e1a53e1"
+    },
+    {
+      "path": "science/aas77733/data.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "bb5c09474bfb6fe02ceac92b5d5e82b49a2f2cd4"
+    },
+    {
+      "path": "science/aas77733/diagnose_reference.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "21602b80ef2d708e2e0e1192f345da3f5aa07ac5"
+    },
+    {
+      "path": "science/aas77733/gates.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "34b6d61d141cd781cffa84e09bcd3211ad9be159"
+    },
+    {
+      "path": "science/aas77733/manifest.json",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "e06b8813e15edfb92a377d2aac7fe70ab5ffb1f9"
+    },
+    {
+      "path": "science/aas77733/run_shard.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "fbfc37edb21bf27f5739e284cf57fef366f5bf4b"
+    },
+    {
+      "path": "science/aas77733/stats.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "747ab4a61f1557e7290eccb8c6b5fed41ce7725b"
+    },
+    {
+      "path": "science/aas77733/test_battery.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "fe36e30993621522360313a2394592cea3e49af6"
+    },
+    {
+      "path": "science/aas77733/test_referee_contract.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "3f7c6ac7046c4ed3a70e84bf8533bd400061d351"
+    },
+    {
+      "path": "science/aas77733r1/__init__.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "20a720a0c4cbeff78dd1689f37a79bd0c7a18ba7"
+    },
+    {
+      "path": "science/aas77733r1/config.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "daab5cd063cfe1248ca4103c1c1f656712b817fe"
+    },
+    {
+      "path": "science/aas77733r1/context.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "c1bd56a13b7a16dfe99a4697de0b0c7cfceb28fb"
+    },
+    {
+      "path": "science/aas77733r1/gates_a.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "5fe1e83ea06e44345a95453a3ffd6c5225919db7"
+    },
+    {
+      "path": "science/aas77733r1/gates_b.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "218b3cab4a37037f0c88f72704a037d27ba0f7e7"
+    },
+    {
+      "path": "science/aas77733r1/gates_c.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "31c600a53ee01b8810f8185c5348e9493872febd"
+    },
+    {
+      "path": "science/aas77733r1/gates_d.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "5dabf18080e9a86e2bfbf81fdcc53cbe3a843513"
+    },
+    {
+      "path": "science/aas77733r1/nulls.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "3b80cb928cbf95a038c6d0cc264ac716b1ab621c"
+    },
+    {
+      "path": "science/aas77733r1/protocol.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "fd16542830905806b294b3df3c4dc45d615b33fd"
+    },
+    {
+      "path": "science/aas77733r1/run.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "e5709a589b9a73e0342ddd1a7d08b1ca1673f581"
+    },
+    {
+      "path": "science/aas77733r1/settings.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "636ce4ab5dafb65805372d3d9c04afdfdd157ad0"
+    },
+    {
+      "path": "science/aas77733r1/stats.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "62828aa937edb66e71370b6460126c56bce17464"
+    },
+    {
+      "path": "science/aas77733r1/test_contract.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "310c36335f73268da369dc434fd84fb67dac3195"
+    },
+    {
+      "path": "science/aas77733r1/utils.py",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "fd61831569d9c6238764ef25948ac5a2577646ff"
+    },
+    {
+      "path": ".github/workflows/aas77733-r1-publication.yml",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "ba7d034a62acd80fff4beefd8cbd270df891bf91"
+    },
+    {
+      "path": ".github/workflows/aas77733-r1-battery.yml",
+      "commit": "1e944e34f30d3d4948f60a6f045e5557d733c8b6",
+      "blob_sha1": "f1580b238ec7463f166e0fbbd78a164d17b892f8"
+    },
+    {
+      "path": "science/aas77733r1_hardening/__init__.py",
+      "commit": "3aaec79fd6e6b43931a29d03afa4676c2163af6d",
+      "blob_sha1": "cf5f31fbf20345c807298c90ac5f8d192d8aaf7e"
+    },
+    {
+      "path": "science/aas77733r1_hardening/hardening.py",
+      "commit": "3aaec79fd6e6b43931a29d03afa4676c2163af6d",
+      "blob_sha1": "94f6b997365ea76fe4722a5859501ba87b691db7"
+    },
+    {
+      "path": "science/aas77733r1_hardening/run.py",
+      "commit": "3aaec79fd6e6b43931a29d03afa4676c2163af6d",
+      "blob_sha1": "e28fad4cbbbc2e34ee4179ee82833c10fbe3cdf9"
+    },
+    {
+      "path": "science/aas77733r1_hardening/test_hardening.py",
+      "commit": "3aaec79fd6e6b43931a29d03afa4676c2163af6d",
+      "blob_sha1": "59208084dfaffd3dbe80bbff52258d0a6d1e9405"
+    },
+    {
+      "path": ".github/workflows/aas77733-r1-hardening-lm.yml",
+      "commit": "3aaec79fd6e6b43931a29d03afa4676c2163af6d",
+      "blob_sha1": "3e6fd63553ebdc8f4e082d27d3b49477b0287448"
+    }
+  ]
+}
