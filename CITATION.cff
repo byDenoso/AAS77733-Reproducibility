@@ -1,0 +1,8 @@
+cff-version: 1.2.0
+message: "Please cite the associated AAS77733 manuscript and the archival DOI once assigned."
+title: "AAS77733 Reproducibility Package"
+type: software
+authors:
+  - family-names: Pereira
+    given-names: Dener
+repository-code: "https://github.com/byDenoso/AAS77733-Reproducibility"
