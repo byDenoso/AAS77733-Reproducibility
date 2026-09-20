@@ -1,0 +1,28 @@
+{
+  "note": "Manuscript-level checkpoints; not a substitute for executing the batteries.",
+  "official_likelihood": {
+    "N": 1590,
+    "omega_m": 0.331576,
+    "chi2": 1402.919
+  },
+  "fiducial": {
+    "N": 1365,
+    "zhd_min": 0.0233,
+    "omega_m": 0.327697
+  },
+  "blind_scan": {
+    "delta_chi2": 2.224,
+    "zt": 0.03,
+    "amplitude_mag": 0.0233
+  },
+  "historical_candidate": {
+    "zt": 0.36,
+    "delta_chi2": 1.841
+  },
+  "global_covariance_null": {
+    "mocks": 10000,
+    "p_global": 0.8378,
+    "q95": 9.007
+  },
+  "classification": "NON_DETECTION"
+}
