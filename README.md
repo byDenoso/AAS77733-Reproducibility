@@ -78,3 +78,10 @@ A DOI-bearing archival release, e.g. Zenodo, should be created from the final ac
 ## License
 
 No new software license is asserted here until the license status of the upstream code is explicitly resolved.
+
+
+## Verification
+
+All **32 imported scientific/workflow files** were read back from this repository and matched against the expected upstream Git blob hashes: **32/32 exact matches**.
+
+See `docs/VERIFICATION.md` for the distinction between file-level provenance validation and runtime execution, and `docs/REFEREE_TRACEABILITY.md` for the mapping from the main Review 1 concerns to the G/H test batteries.
