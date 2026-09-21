@@ -91,3 +91,16 @@ AAS77733
 Author:
 Dener Pereira
 Instituto de Fisica, Universidade Federal do Rio de Janeiro (UFRJ), Rio de Janeiro, Brazil
+
+
+Reuse requirements / license status:
+- Third-party Pantheon+ and DES-SN5YR products are not redistributed; follow the licenses/terms of their upstream releases.
+- Scientific source files in this package derive from the author's frozen byDenoso/Pantheon commits.
+- No new software reuse license is asserted by this package until the upstream code license is explicitly resolved. See LICENSE_PENDING.md.
+- This license state must be reviewed when creating the DOI-bearing archival deposit; it does not alter the numerical reproducibility record.
+
+Final R1 pre-Zenodo QA (2026-09-21):
+- Manuscript: 7 pages, AASTeX631, scientific claim frozen as NON_DETECTION.
+- Response letter: point-by-point response to Reviewer 1 and Data Editor.
+- Headline numerical checkpoints preserved.
+- DOI is intentionally absent until a real Zenodo record is minted.
