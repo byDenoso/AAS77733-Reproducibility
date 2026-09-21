@@ -1,0 +1,38 @@
+{
+  "title": "AAS77733 Reproducibility Package: A global test of an apparent mid-redshift residual feature in Pantheon+ Type Ia supernovae",
+  "upload_type": "software",
+  "description": "Frozen reproducibility package for the revised AAS77733 analysis. The package supports a non-detection / identifiability result for the historical z~0.4 Pantheon+ residual candidate and contains the publication battery, R1 hardening checks, immutable public-data provenance, dependency pins, numerical checkpoints, covariance-semantics traceability, and reviewer-response mapping.",
+  "creators": [
+    {
+      "name": "Pereira, Dener",
+      "affiliation": "Instituto de Fisica, Universidade Federal do Rio de Janeiro (UFRJ)"
+    }
+  ],
+  "keywords": [
+    "Pantheon+",
+    "Type Ia supernovae",
+    "Hubble residuals",
+    "change-point tests",
+    "covariance matrices",
+    "observational systematics",
+    "reproducibility"
+  ],
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/byDenoso/AAS77733-Reproducibility",
+      "relation": "isSupplementTo",
+      "resource_type": "software"
+    },
+    {
+      "identifier": "https://github.com/PantheonPlusSH0ES/DataRelease",
+      "relation": "references",
+      "resource_type": "dataset"
+    },
+    {
+      "identifier": "https://github.com/des-science/DES-SN5YR",
+      "relation": "references",
+      "resource_type": "dataset"
+    }
+  ],
+  "notes": "AAS Journals manuscript ID AAS77733. Submit this deposit to the AAS Journals Zenodo Community and insert the minted DOI in the manuscript using the AASTeX dataset macro."
+}
