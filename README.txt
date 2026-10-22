@@ -1,3 +1,8 @@
+CURRENT OCTOBER 2026 REVISION
+See reproducibility/20261021/README.md for the current independent mean-step implementation, pins and rerun commands. Current p = 0.653834617 (primary), 0.619638036 (joint). The R1 calibration below is historical and not interchangeable.
+
+HISTORICAL R1 RECORD (PRESERVED)
+
 AAS77733 REPRODUCIBILITY PACKAGE
 
 Manuscript:

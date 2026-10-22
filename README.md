@@ -1,5 +1,18 @@
 # AAS77733 Reproducibility Package
 
+## Current manuscript: October 2026
+
+**No Globally Significant Redshift Step in the Pantheon+ Type Ia Supernova Hubble Diagram**
+
+The current independent implementation and reproduction guide are in [reproducibility/20261021](reproducibility/20261021/README.md). It includes pinned input fetch/hash verification, separate Python 3.12 dependencies, observed regression tests, frozen numerical summaries, and explicit observed/figure/full runners. No private editorial materials or third-party datasets are redistributed.
+
+Current primary global p = 0.653834617; joint-background p = 0.619638036. The separate high-redshift bin excess is exploratory and nuisance-sensitive. See the layer's README for scope, limitations and all reported checkpoints. The older p = 0.8378 below belongs to the preserved historical R1 contract; it is not the current mean-step calibration and must not be silently substituted.
+
+No new software license is asserted; LICENSE_PENDING.md remains unchanged. No DOI is asserted by this update. Existing R1 workflows and source files are preserved, not rerun or replaced.
+
+## Historical R1 documentation (preserved)
+
+
 Reproducibility repository for the revised manuscript:
 
 **A global test of an apparent mid-redshift residual feature in Pantheon+ Type Ia supernovae**

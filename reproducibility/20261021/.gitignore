@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+inputs/Pantheon+SH0ES.dat
+inputs/Pantheon+SH0ES_STAT+SYS.cov
+inputs/README
+inputs/official_pantheon_likelihood.py
+outputs/
+figures/
+RESULT.json
+cache/

@@ -1,0 +1,47 @@
+{
+  "commit": "c447f0fea703fcd0fff57de5000947b5ca81286b",
+  "tree_api": "https://api.github.com/repos/PantheonPlusSH0ES/DataRelease/git/trees/c447f0fea703fcd0fff57de5000947b5ca81286b?recursive=1",
+  "all_match": true,
+  "files": [
+    {
+      "local_name": "Pantheon+SH0ES.dat",
+      "repository_path": "Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES.dat",
+      "official_tree_blob_sha1": "cce857db0c15e9ce7a0e0ce77452b6ff62af969a",
+      "local_git_blob_sha1": "cce857db0c15e9ce7a0e0ce77452b6ff62af969a",
+      "git_blob_match": true,
+      "sha256": "1cb0fc379ef066afdc2ffd1857681cc478024570d8a3eba284fb645775198cf8",
+      "bytes": 579283,
+      "source_url": "https://github.com/PantheonPlusSH0ES/DataRelease/blob/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES.dat"
+    },
+    {
+      "local_name": "Pantheon+SH0ES_STAT+SYS.cov",
+      "repository_path": "Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES_STAT+SYS.cov",
+      "official_tree_blob_sha1": "d1a1498154e7ba826df14bdbef35ebcb7f5efba1",
+      "local_git_blob_sha1": "d1a1498154e7ba826df14bdbef35ebcb7f5efba1",
+      "git_blob_match": true,
+      "sha256": "abf806d966485e64afdb359c87bffc0ecc00d05eff0a31ced66f247385df0fdc",
+      "bytes": 33284960,
+      "source_url": "https://github.com/PantheonPlusSH0ES/DataRelease/blob/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/Pantheon+SH0ES_STAT+SYS.cov"
+    },
+    {
+      "local_name": "README",
+      "repository_path": "Pantheon+_Data/4_DISTANCES_AND_COVAR/README",
+      "official_tree_blob_sha1": "8d2d0b9af0633573b4d1c190e44adcd135bbec85",
+      "local_git_blob_sha1": "8d2d0b9af0633573b4d1c190e44adcd135bbec85",
+      "git_blob_match": true,
+      "sha256": "e2b0d262757f01c1794a938c78d32600a21e289b2a0320e5c660c4c6fc9aa87e",
+      "bytes": 4056,
+      "source_url": "https://github.com/PantheonPlusSH0ES/DataRelease/blob/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/4_DISTANCES_AND_COVAR/README"
+    },
+    {
+      "local_name": "official_pantheon_likelihood.py",
+      "repository_path": "Pantheon+_Data/5_COSMOLOGY/cosmosis_likelihoods/Pantheon+_only_cosmosis_likelihood.py",
+      "official_tree_blob_sha1": "07d4ae5f24ae97b3416e12b17c666904b117156f",
+      "local_git_blob_sha1": "07d4ae5f24ae97b3416e12b17c666904b117156f",
+      "git_blob_match": true,
+      "sha256": "7bc222fedc11a3d496ef4c5c18b2e111842dcef4d2bb65d22e9597eb9be191a4",
+      "bytes": 4000,
+      "source_url": "https://github.com/PantheonPlusSH0ES/DataRelease/blob/c447f0fea703fcd0fff57de5000947b5ca81286b/Pantheon+_Data/5_COSMOLOGY/cosmosis_likelihoods/Pantheon+_only_cosmosis_likelihood.py"
+    }
+  ]
+}

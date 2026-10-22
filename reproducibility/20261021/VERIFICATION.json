@@ -1,0 +1,23 @@
+{
+  "date": "2026-10-22",
+  "unit_tests": {
+    "passed": 6,
+    "failed": 0,
+    "skipped": 0
+  },
+  "observed_contracts": {
+    "count": 11,
+    "comparison": "exact JSON equality with frozen numerical outputs"
+  },
+  "figure_arrays": {
+    "count": 11,
+    "comparison": "allclose rtol=atol=1e-12"
+  },
+  "figure_pdfs_generated": 5,
+  "input_check": "4/4 exact SHA256 and Git blob matches; reused existing official bytes",
+  "monte_carlo_rerun": false,
+  "full_mode_status": "packaged; numerical engine unchanged from completed 21 October run; not rerun for this packaging update",
+  "remote_download_status": "downloader integrity and corruption checks tested; network acquisition not re-executed in packaging QA",
+  "workflow_changes": false,
+  "license_changes": false
+}
