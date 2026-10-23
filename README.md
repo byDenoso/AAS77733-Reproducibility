@@ -1,6 +1,12 @@
 # AAS77733 Reproducibility Package
 
-## Current manuscript: October 2026
+## Latest supplied pre-submission source snapshot
+
+See [reproducibility/20261023/REPRODUCIBILITY](reproducibility/20261023/REPRODUCIBILITY/README.md) for the source-only snapshot accompanying **No Significant Residual Step across 62 Tested Pantheon+ Redshift Partitions**. This is not the full archival deposit and has not been scientifically rerun during this import. Original observational arrays, journal assets and editorial materials are excluded.
+
+Zenodo DOI **10.5281/zenodo.23306992** is reserved, not a published archival release. No new license is assigned. Earlier implementations and checkpoints below are preserved for provenance and must not be substituted for the latest package.
+
+## Earlier October implementation (preserved)
 
 **No Globally Significant Redshift Step in the Pantheon+ Type Ia Supernova Hubble Diagram**
 
@@ -98,3 +104,4 @@ No new software license is asserted here until the license status of the upstrea
 All **32 imported scientific/workflow files** were read back from this repository and matched against the expected upstream Git blob hashes: **32/32 exact matches**.
 
 See `docs/VERIFICATION.md` for the distinction between file-level provenance validation and runtime execution, and `docs/REFEREE_TRACEABILITY.md` for the mapping from the main Review 1 concerns to the G/H test batteries.
+

@@ -1,0 +1,137 @@
+{
+  "scope": "source-only; excludes stored observational arrays, figures, journal assets and correspondence",
+  "source_package_sha256": "5043cc43517df7357ed3597d04d58a02baabe2b88f6248e0ea6a2f29ecc939ee",
+  "upstream_data_repository": "PantheonPlusSH0ES/DataRelease",
+  "upstream_data_commit": "c447f0fea703fcd0fff57de5000947b5ca81286b",
+  "zenodo_doi": "10.5281/zenodo.23306992",
+  "zenodo_status": "RESERVED_NOT_PUBLISHED",
+  "scientific_execution": "NOT_RERUN_FOR_IMPORT",
+  "files": [
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/.gitignore",
+      "sha256": "815b5ac328cf31a39a848d4607fe62ef26bd2c5d82e1612b5f69bd54dcae72d7",
+      "bytes": 203,
+      "origin": "documentation_overlay"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/README.md",
+      "sha256": "052fba3d44029cd188cd07633a578ee4b3e29da657058efe52e14ef9cc49c8d5",
+      "bytes": 3825,
+      "origin": "documentation_overlay"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/covariance_scale_sensitivity.py",
+      "sha256": "714730b5d255e1bb575acc8f2b69a567ae331f4cbd069f04d5b748f08df13173",
+      "bytes": 2520,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/derive_metrics.py",
+      "sha256": "1b545527e320440fc0adc737a68e077f1190e8db5628c16392c365e6373c5d64",
+      "bytes": 4498,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/diagnostics.py",
+      "sha256": "c9142cac142c1f93f8630cea7bd4ead99db0427b20374b02c77206e6cb6bc3bb",
+      "bytes": 1352,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/direct_gls_crosscheck.py",
+      "sha256": "1e2ed65a730d76fee1dae6ea0d75e1f6e780aa94c2dd42b77c15462346244ac1",
+      "bytes": 1772,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/equal_count_bins.py",
+      "sha256": "e718e383b0f914047913a75a585dba9f5cbae158340512a2922ffee5a50829e2",
+      "bytes": 4397,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/make_figures.py",
+      "sha256": "51d76b9b53562d7cadd6b0f1af98888b3416029741fc5b932c96380f30a91eeb",
+      "bytes": 8595,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/make_macros.py",
+      "sha256": "7d29c99bd5ceefa9df48011e45bc26cf279c12f45b1adba8b2a356fbf3bb452b",
+      "bytes": 4682,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/parameter_projection.py",
+      "sha256": "a74f50af3e5bf5d0ec6ab995efddba8b1fa8efc12ee3d287b449f3cc0411599a",
+      "bytes": 823,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/plot_survey_diagnostics.py",
+      "sha256": "b1a82c230077b63b9847a47e07eeff2776e96c02f44046525055bf29d1b77de2",
+      "bytes": 2644,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/reproduce_calibration.py",
+      "sha256": "cbbf743d2417f45dfa0d1fdedd4f775de892c67c5b3fef0ec24eeb3003e67c07",
+      "bytes": 6821,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/survey_bin_recalibration.py",
+      "sha256": "effce2c29946527ca82aadd338e7a55c4caa24a15e209258a1f0eb7779b34c0e",
+      "bytes": 5555,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/survey_deletion_influence.py",
+      "sha256": "1e231315bbd8be5f75b3bc31df3ee9fe11a6d48db289052c4dc77ce884016f5d",
+      "bytes": 1554,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/analysis/variance_addition_sensitivity.py",
+      "sha256": "c8c728e76882c472f3fd6927f3231cf72929dd115c2a535115cd862f05d84961",
+      "bytes": 3811,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/check_inputs.py",
+      "sha256": "6d3b095a603b9b68a1c385eca6f59917616fe04fd37dc53799cc3cec63091faf",
+      "bytes": 1160,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/inputs/README.txt",
+      "sha256": "a44fbd24cb4fd5ee6f2b994ad4aaa6d7686c2fb231ce54add51bc54e5479e949",
+      "bytes": 726,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/requirements.txt",
+      "sha256": "815360a00e0e1d7a128cade3de11b66d3fe997cbd6e2c69f8081eb9bc8b88197",
+      "bytes": 46,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/run_all.py",
+      "sha256": "a52d8c99d613ee4acaedf03238be0127b527cf648b91f4de51c4ae4da495ccd8",
+      "bytes": 1626,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/sync_journal_assets.py",
+      "sha256": "133879bdcdce9de3718cf6744f55d1fc6f64ba3577b7b1655a0a07a3f6091fa3",
+      "bytes": 1166,
+      "origin": "unchanged_package_source"
+    },
+    {
+      "path": "reproducibility/20261023/REPRODUCIBILITY/verify_reproduction.py",
+      "sha256": "c949993990ff5c9e6fefeb3221bc53695c571c1be687ee767209c0edd51638ed",
+      "bytes": 3385,
+      "origin": "unchanged_package_source"
+    }
+  ]
+}

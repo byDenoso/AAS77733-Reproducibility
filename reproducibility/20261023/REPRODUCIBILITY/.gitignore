@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+inputs/*
+!inputs/README.txt
+figures/
+analysis/*.npz
+analysis/*.json
+analysis/*.jsonl
+analysis/*.csv
+analysis/*.txt
+generated_results.tex
+journal_asset_manifest.json
+../JOURNAL_UPLOAD/
