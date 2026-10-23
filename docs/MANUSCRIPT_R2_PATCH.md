@@ -68,3 +68,16 @@ No additional scientific battery is required unless one of the above edits revea
 - insert the DOI in Data Availability;
 - compile the revised source;
 - perform final text/figure/citation QA.
+
+## 7. AI-use disclosure replacement
+
+Replace the current `AI-use Disclosure` section in the manuscript with this exact LaTeX block:
+
+```tex
+\section*{AI-use Disclosure}
+\begingroup\raggedright
+ChatGPT and Codex (OpenAI) were used only to assist with literature retrieval and reference checking, and with manuscript drafting and language editing.\par
+\endgroup
+```
+
+Keep this as the complete disclosure statement; do not add other AI-use claims or an additional attribution sentence.
